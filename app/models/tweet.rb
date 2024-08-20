@@ -9,4 +9,7 @@ class Tweet < ApplicationRecord
     self.publish_at ||= 24.hours.from_now
   end
 
+  def puslished?
+    tweet_id?
+  end
 end
