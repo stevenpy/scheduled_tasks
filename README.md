@@ -13,7 +13,7 @@ TweetScheduler is a Ruby on Rails application that allows users to schedule and 
 ## Requirements
 
 - Ruby 3.3.0 or higher
-- Rails 6.1.0 or higher
+- Rails 7.1.0 or higher
 - PostgreSQL
 - Redis
 
